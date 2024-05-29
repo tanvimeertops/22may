@@ -1,0 +1,50 @@
+manual 3 month
+testing: completeness,correctnes and
+quality
+
+web app/website
+mobile app
+desktop
+
+hlr
+test scenerio
+test case
+defect report
+
+tools:
+ BTT
+jira 
+bugzilla
+
+performance testing
+jmeter
+hp load runner
+
+cross browser
+responsive
+
+sql
+oops
+git 
+
+
+Advance Selenium 2:web automation
+1.Selenium IDE
+core java basic to collection
+condition,oops,loop,keyword,exception
+thread,file IO,
+common class,collection
+2.webdriver: locator,element,junit
+testng
+3.RC
+4.gride: 
+POI:
+1.data driven
+2.keywrod
+3.hybird
+
+maven	
+
+Appium
+API testing: Postman
+
