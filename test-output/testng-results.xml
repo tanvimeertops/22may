@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-21T10:40:58 IST" name="Suite" finished-at="2024-08-21T10:40:58 IST" duration-ms="63">
+    <groups>
+      <group name="red">
+        <method signature="TestNGGroup.greenandred()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" name="greenandred" class="com.testng.TestNGGroup"/>
+      </group> <!-- red -->
+      <group name="green">
+        <method signature="TestNGGroup.green1()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" name="green1" class="com.testng.TestNGGroup"/>
+        <method signature="TestNGGroup.green2()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" name="green2" class="com.testng.TestNGGroup"/>
+        <method signature="TestNGGroup.green3()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" name="green3" class="com.testng.TestNGGroup"/>
+        <method signature="TestNGGroup.greenandred()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" name="greenandred" class="com.testng.TestNGGroup"/>
+      </group> <!-- green -->
+    </groups>
+    <test started-at="2024-08-21T10:40:58 IST" name="Test" finished-at="2024-08-21T10:40:58 IST" duration-ms="63">
+      <class name="com.testng.TestNGGroup">
+        <test-method signature="green1()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" started-at="2024-08-21T10:40:58 IST" name="green1" finished-at="2024-08-21T10:40:58 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- green1 -->
+        <test-method signature="green2()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" started-at="2024-08-21T10:40:58 IST" name="green2" finished-at="2024-08-21T10:40:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- green2 -->
+        <test-method signature="green3()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" started-at="2024-08-21T10:40:58 IST" name="green3" finished-at="2024-08-21T10:40:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- green3 -->
+        <test-method signature="greenandred()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" started-at="2024-08-21T10:40:58 IST" name="greenandred" finished-at="2024-08-21T10:40:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- greenandred -->
+      </class> <!-- com.testng.TestNGGroup -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
