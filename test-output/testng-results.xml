@@ -1,38 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-21T10:40:58 IST" name="Suite" finished-at="2024-08-21T10:40:58 IST" duration-ms="63">
+  <suite started-at="2024-09-02T10:59:07 IST" name="Default suite" finished-at="2024-09-02T10:59:46 IST" duration-ms="38952">
     <groups>
-      <group name="red">
-        <method signature="TestNGGroup.greenandred()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" name="greenandred" class="com.testng.TestNGGroup"/>
-      </group> <!-- red -->
-      <group name="green">
-        <method signature="TestNGGroup.green1()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" name="green1" class="com.testng.TestNGGroup"/>
-        <method signature="TestNGGroup.green2()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" name="green2" class="com.testng.TestNGGroup"/>
-        <method signature="TestNGGroup.green3()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" name="green3" class="com.testng.TestNGGroup"/>
-        <method signature="TestNGGroup.greenandred()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" name="greenandred" class="com.testng.TestNGGroup"/>
-      </group> <!-- green -->
     </groups>
-    <test started-at="2024-08-21T10:40:58 IST" name="Test" finished-at="2024-08-21T10:40:58 IST" duration-ms="63">
-      <class name="com.testng.TestNGGroup">
-        <test-method signature="green1()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" started-at="2024-08-21T10:40:58 IST" name="green1" finished-at="2024-08-21T10:40:58 IST" duration-ms="7" status="PASS">
+    <test started-at="2024-09-02T10:59:07 IST" name="Default test" finished-at="2024-09-02T10:59:46 IST" duration-ms="38952">
+      <class name="com.FW.DataDrivenFW">
+        <test-method signature="test()[pri:0, instance:com.FW.DataDrivenFW@30b6ffe0]" started-at="2024-09-02T10:59:07 IST" name="test" finished-at="2024-09-02T10:59:46 IST" duration-ms="38924" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- green1 -->
-        <test-method signature="green2()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" started-at="2024-08-21T10:40:58 IST" name="green2" finished-at="2024-08-21T10:40:58 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- green2 -->
-        <test-method signature="green3()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" started-at="2024-08-21T10:40:58 IST" name="green3" finished-at="2024-08-21T10:40:58 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- green3 -->
-        <test-method signature="greenandred()[pri:0, instance:com.testng.TestNGGroup@776a6d9b]" started-at="2024-08-21T10:40:58 IST" name="greenandred" finished-at="2024-08-21T10:40:58 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- greenandred -->
-      </class> <!-- com.testng.TestNGGroup -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- test -->
+      </class> <!-- com.FW.DataDrivenFW -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
